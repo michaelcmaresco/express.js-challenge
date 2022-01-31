@@ -1,4 +1,4 @@
-<title> Express.js Challenge </title>
+Express.js Challenge
 
 Note Taker Starter Code
 
